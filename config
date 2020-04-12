@@ -210,7 +210,7 @@ bindsym $mod+shift+x exec i3lock
 
 exec xrandr --rate 144
 
-exec xfce4-terminal 
+exec i3-sensible-terminal 
 
 exec firefox 
 
